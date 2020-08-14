@@ -1,4 +1,4 @@
-# Geolocation-free-Linux
+## Geolocation-free-Linux
 How to remove geolocation from linux
 
 I liked Gnome but recently i found that there is no way to complitelly delete geoclue (geolocation) from there because of dependencies.
@@ -14,7 +14,7 @@ If your wish to avoid any geolocation packages in your machine you can do this s
      * systemctl daemon-reload
      * systemctl reset-failed
 
-## Optional
+#### Optional
 You can delete bluetooth also and make your OS more secure. 
 
 ```
